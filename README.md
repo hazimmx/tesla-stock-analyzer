@@ -1,5 +1,5 @@
 # tesla-stock-analyzer
-A beginner-friendly project to estimate Tesla's fair stock value using real financial data (EPS, PER) from Yahoo Finance. Built with yfinance, pandas, and matplotlib.
+A beginner-friendly project to estimate Tesla's fair stock value using real financial data (EPS, PER) from Yahoo Finance. Built with yfinance, pandas, and matplotlib via Google Colab.
 
 ## Features
 - Fetches live EPS and PER data
