@@ -8,4 +8,4 @@ A beginner-friendly project to estimate Tesla's fair stock value using real fina
 - Visualizes 1-year closing price
 - Exports results to CSV
 
-  It is a simple project so I am expected to expand this project in the future :D
+  It is a simple project so I am expected to expand & explore this project in the future :D
